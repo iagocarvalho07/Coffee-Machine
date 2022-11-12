@@ -1,4 +1,7 @@
 # Coffee-Machine
+
+https://user-images.githubusercontent.com/71970033/201456010-299ff901-ac7e-4cba-ac57-9a91caf47ace.mp4
+
  
 Projeto maquina de cafe automatica feita com kotlinh, seguindo treinamento da jetBrains em https://hyperskill.org/projects/67?track=18
 
