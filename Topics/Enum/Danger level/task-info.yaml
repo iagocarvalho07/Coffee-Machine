@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    enum class DangerLevel {
+        HIGH,
+        MEDIUM,
+        LOW
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6251#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    main.kt:3:18: error: unresolved reference: getLevel
+        println(high.getLevel())
+                     ^
+  time: "Sat, 12 Nov 2022 01:44:53 UTC"
+record: -1
